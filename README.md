@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm David Miranda 👋
 
-<!--
-**davidmiranda-gamedev/davidmiranda-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Science in Information Technology Graduate  
+Specialization in Game Development
 
-Here are some ideas to get you started:
+Unity Developer | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I develop educational games, multiplayer prototypes, and software applications using Unity, C#, Python, and modern development tools.
+
+I enjoy creating scalable systems, interactive learning experiences, and user-focused applications.
+
+---
+
+## Featured Projects
+
+### 🎮 Faith In Focus
+Cross-platform Christian educational game featuring interactive storytelling, quizzes, mini-games, and character-based learning.
+
+🔗 https://github.com/davidmiranda-gamedev/FaithInFocus-Showcase
+
+---
+
+### 📖 Bible Quiz Adventure
+Bible-based educational quiz game featuring Adventure Mode, Endless Mode, progression systems, and scalable quiz architecture.
+
+🔗 https://github.com/davidmiranda-gamedev/BibleQuizAdventure-Showcase
+
+---
+
+### ⚔️ Dungeon Coop Quest
+Multiplayer dungeon crawler prototype developed using Unity and Photon Networking.
+
+🔗 https://github.com/davidmiranda-gamedev/Dungeon-Coop-Quest-Showcase
+
+---
+
+## Technical Skills
+
+### Languages
+C#, Python, JavaScript, SQL
+
+### Game Development
+Unity, Photon PUN, TextMeshPro
+
+### Databases
+MySQL
+
+### Tools
+Git, GitHub, Visual Studio, Canva, Photoshop, Blender
+
+---
+
+## Resume
+
+📄 Portfolio & Resume
+
+🔗 https://github.com/davidmiranda-gamedev/David-Miranda-Portfolio
+
+---
+
+## Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/davidnmiranda
+
+📧 Email  
+davidmiranda.gamedev@gmail.com
