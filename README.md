@@ -20,21 +20,21 @@ I enjoy creating scalable systems, interactive learning experiences, and user-fo
 ### 🎮 Faith In Focus
 Cross-platform Christian educational game featuring interactive storytelling, quizzes, mini-games, and character-based learning.
 
-🔗 https://github.com/davidmiranda-gamedev/FaithInFocus-Showcase
+🔗 [View Repository](https://github.com/davidmiranda-gamedev/FaithInFocus-Showcase)
 
 ---
 
 ### 📖 Bible Quiz Adventure
 Bible-based educational quiz game featuring Adventure Mode, Endless Mode, progression systems, and scalable quiz architecture.
 
-🔗 https://github.com/davidmiranda-gamedev/BibleQuizAdventure-Showcase
+🔗 [View Repository](https://github.com/davidmiranda-gamedev/BibleQuizAdventure-Showcase)
 
 ---
 
 ### ⚔️ Dungeon Coop Quest
 Multiplayer dungeon crawler prototype developed using Unity and Photon Networking.
 
-🔗 https://github.com/davidmiranda-gamedev/Dungeon-Coop-Quest-Showcase
+🔗 [View Repository](https://github.com/davidmiranda-gamedev/Dungeon-Coop-Quest-Showcase)
 
 ---
 
