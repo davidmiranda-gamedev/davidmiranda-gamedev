@@ -3,7 +3,7 @@
 Bachelor of Science in Information Technology Graduate  
 Specialization in Game Development
 
-Unity Developer | Software Developer
+Software Developer | Game Developer
 
 ---
 
